@@ -1,0 +1,12 @@
+G:\ThinkBridge\BusinessAccess\bin\Debug\netcoreapp3.1\BusinessAccess.deps.json
+G:\ThinkBridge\BusinessAccess\bin\Debug\netcoreapp3.1\BusinessAccess.dll
+G:\ThinkBridge\BusinessAccess\bin\Debug\netcoreapp3.1\BusinessAccess.pdb
+G:\ThinkBridge\BusinessAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+G:\ThinkBridge\BusinessAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+G:\ThinkBridge\BusinessAccess\obj\Debug\netcoreapp3.1\BusinessAccess.csprojAssemblyReference.cache
+G:\ThinkBridge\BusinessAccess\obj\Debug\netcoreapp3.1\BusinessAccess.AssemblyInfoInputs.cache
+G:\ThinkBridge\BusinessAccess\obj\Debug\netcoreapp3.1\BusinessAccess.AssemblyInfo.cs
+G:\ThinkBridge\BusinessAccess\obj\Debug\netcoreapp3.1\BusinessAccess.csproj.CoreCompileInputs.cache
+G:\ThinkBridge\BusinessAccess\obj\Debug\netcoreapp3.1\BusinessAccess.csproj.CopyComplete
+G:\ThinkBridge\BusinessAccess\obj\Debug\netcoreapp3.1\BusinessAccess.dll
+G:\ThinkBridge\BusinessAccess\obj\Debug\netcoreapp3.1\BusinessAccess.pdb
